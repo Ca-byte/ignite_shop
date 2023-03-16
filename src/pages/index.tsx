@@ -28,7 +28,6 @@ export default function Home({ products } : HomeProps) {
   return (
     <HomeContainer ref={sliderRef} className="keen-slider">
       {products && products.map(product => {
-        console.log(products)
           return (
             <Product key={product.id} className="keen-slider__slide">
               <Image src={shirt2} width={520} height={480} alt="shirt logo 1" />
