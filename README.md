@@ -1,39 +1,93 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center" id="top">
+    <img alt="" src=".github/logo.svg" width="150px">
+</p>
 
-## Getting Started
+<br>
 
-First, run the development server:
+<p align="center">
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+
+<p align="center">
+	<img alt="" src=".github/home-cover.png" width="500px">
+	<img alt="" src=".github/product-cover.png" width="500px">
+	<img alt="" src=".github/product-payment-cover.png" width="500px">
+	<img alt="" src=".github/success-cover.png" width="500px">
+</p>
+
+---
+
+<br>
+
+## Technologies ##
+
+This project was developed using the following technologies:
+
+- [React](https://pt-br.reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Stitches](https://stitches.dev/)
+- [Keen-slider](https://keen-slider.io/)
+- [Stripe](https://stripe.com/pt-br-us)
+- [Axios](https://axios-http.com/docs/intro)
+
+
+<br>
+
+---
+
+## 📋  Requirements ##
+
+Before starting you need :checkered_flag:, have installed the [Git](https://git-scm.com) e [Node](https://nodejs.org/en/).
+
+<br>
+
+---
+## ⌨ How to run the project ##
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+# Clone this project
+$ git clone git@github.com:Ca-byte/ignite_shop.git
+
+# Access
+$ cd ignite-dt-money
+
+# Install dependencies
+$ npm i
+
+# Run the project
+$ npm run dev
+
+# The server will initialize in the <http://localhost:3000/>
+
 ```
+<br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Project ##
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+The project idea is a shopping market, we learned about the main concepts around NextJS, understand the differences between SPA (single-page applications), SSR (server-side rendering), and SSG (static site generation), and understand mainly how this helps us from the usability of the application to the indexing of our app, how works fonts, images, navigation using Link, data fetching in next project, we used Stripe api for products and checkout.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This is a project developed during React bootcamp **[Ignite](https://github.com/Rocketseat)**, run by **[@Rocketseat](https://github.com/Rocketseat)**.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<br>
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🔖 Layout ##
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Ignite Shop](https://www.figma.com/file/86tpso6bhhvMwMenqngqJy/Ignite-Shop-(Copy)?node-id=0-1&t=Kn84RHroDvQRwtHL-0)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# ignite_shop
+<br>
+<p align="center">Developed with 💜 by Caroline Vieira</p>
+
+<a href="#top">☝</a>
