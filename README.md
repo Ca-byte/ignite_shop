@@ -5,8 +5,8 @@
 <br>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -22,7 +22,7 @@
 
 <br>
 
-## Technologies ##
+## 💻Technologies ##
 
 This project was developed using the following technologies:
 
@@ -68,7 +68,7 @@ $ npm run dev
 
 ---
 
-## Project ##
+## 🚧 Project ##
 
 The project idea is a shopping market, we learned about the main concepts around NextJS, understand the differences between SPA (single-page applications), SSR (server-side rendering), and SSG (static site generation), and understand mainly how this helps us from the usability of the application to the indexing of our app, how works fonts, images, navigation using Link, data fetching in next project, we used Stripe api for products and checkout.
 
